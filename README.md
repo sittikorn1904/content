@@ -14,3 +14,7 @@ Setting SSH Ubuntu Server on virtualbox
 =======================================
   - sudo nano /etc/ssh/sshd_config
     -> 
+
+How to Manually Upgrade phpMyAdmin
+==================================
+  - <a href="https://devanswers.co/manually-upgrade-phpmyadmin/">Link</a> by: devanswers.co
