@@ -15,6 +15,10 @@ Setting SSH Ubuntu Server on virtualbox
   - sudo nano /etc/ssh/sshd_config
     - Uncomment HostKey
     - Uncomment PubkeyAuthentication yes
+    
+Installing phpMyAdmin for Apache on Ubuntu 18.04
+================================================
+  - <a href="https://devanswers.co/installing-phpmyadmin-apache-ubuntu-18-04/">Link</a> by: devanswers.co
 
 How to Manually Upgrade phpMyAdmin
 ==================================
