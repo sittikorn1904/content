@@ -9,3 +9,8 @@ Configure Static IP Addresses On Ubuntu 18.04 LTS Server
 How to install LAMP on Ubuntu
 =============================
   - <a href="https://howtoubuntu.org/how-to-install-lamp-on-ubuntu">Link</a> by: howtoubuntu.org
+
+Setting SSH Ubuntu Server on virtualbox
+=======================================
+  - sudo nano /etc/ssh/sshd_config
+    -> 
