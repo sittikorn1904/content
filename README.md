@@ -5,3 +5,7 @@ How to install Elementary OS 0.4 Loki on Oracle virtualbox
 Configure Static IP Addresses On Ubuntu 18.04 LTS Server
 ========================================================
   - <a href="https://websiteforstudents.com/configure-static-ip-addresses-on-ubuntu-18-04-beta/">Link</a> by: websiteforstudents.com
+
+How to install LAMP on Ubuntu
+=============================
+  - <a href="https://howtoubuntu.org/how-to-install-lamp-on-ubuntu">Link</a> by: howtoubuntu.org
