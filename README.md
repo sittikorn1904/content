@@ -13,8 +13,8 @@ How to install LAMP on Ubuntu
 Setting SSH Ubuntu Server on virtualbox
 =======================================
   - sudo nano /etc/ssh/sshd_config
-    -> Uncomment HostKey
-    -> Uncomment PubkeyAuthentication yes
+    - Uncomment HostKey
+    - Uncomment PubkeyAuthentication yes
 
 How to Manually Upgrade phpMyAdmin
 ==================================
