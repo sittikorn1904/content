@@ -1,3 +1,7 @@
+Free Powerpoint templates and Google Slides themes
+==================================================
+  - <a href="https://www.slidescarnival.com/">Link</a> by: slidescarnival.com
+
 How to install Elementary OS 0.4 Loki on Oracle virtualbox
 ==========================================================
   - <a href="https://connectwww.com/how-to-install-elementary-os-0-4-loki-on-oracle-virtualbox/5011/">Link</a> by: connectwww.com
