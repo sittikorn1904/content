@@ -27,3 +27,7 @@ Installing phpMyAdmin for Apache on Ubuntu 18.04
 How to Manually Upgrade phpMyAdmin
 ==================================
   - <a href="https://devanswers.co/manually-upgrade-phpmyadmin/">Link</a> by: devanswers.co
+
+How to install MATLAB and Xilinx
+================================
+- <a href="https://github.com/casper-astro/mlib_devel/wiki/How-to-install-Software/">Link</a> by: github->casper-astro
