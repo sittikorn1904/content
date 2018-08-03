@@ -31,3 +31,7 @@ How to Manually Upgrade phpMyAdmin
 How to install MATLAB and Xilinx
 ================================
 - <a href="https://github.com/casper-astro/mlib_devel/wiki/How-to-install-Software/">Link</a> by: github->casper-astro
+
+How to change from default to alternative Python version on Debian Linux
+========================================================================
+- <a href="https://linuxconfig.org/how-to-change-from-default-to-alternative-python-version-on-debian-linux">Link</a> by: linuxconfig.org
