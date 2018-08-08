@@ -35,3 +35,9 @@ How to install MATLAB and Xilinx
 How to change from default to alternative Python version on Debian Linux
 ========================================================================
 - <a href="https://linuxconfig.org/how-to-change-from-default-to-alternative-python-version-on-debian-linux">Link</a> by: linuxconfig.org
+
+Installing MPLAB® X IDE
+=======================
+- <a href="http://microchipdeveloper.com/mplabx:installation">Link</a> by: microchipdeveloper.com
+
+
