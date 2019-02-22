@@ -41,5 +41,5 @@ Installing MPLAB® X IDE
 - <a href="http://microchipdeveloper.com/mplabx:installation">Link</a> by: microchipdeveloper.com
 
 =======================
-- <a href="https://ubuntuforums.org/showthread.php?t=2273355">build RT preempt kernel</a>
-
+- <a href="https://ubuntuforums.org/showthread.php?t=2273355">build RT preempt kernel : ubuntuforums.org</a>
+- <a href="https://taste.tuxfamily.org/wiki/index.php?title=Build_PREEMPT-RT_kernel">build RT preempt kernel : taste.tuxfamily.org</a>
