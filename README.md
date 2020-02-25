@@ -43,3 +43,7 @@ Installing MPLAB® X IDE
 =======================
 - <a href="https://ubuntuforums.org/showthread.php?t=2273355">build RT preempt kernel : ubuntuforums.org</a>
 - <a href="https://taste.tuxfamily.org/wiki/index.php?title=Build_PREEMPT-RT_kernel">build RT preempt kernel : taste.tuxfamily.org</a>
+
+CiRA CORE License
+=======================
+AwPVQMxgxBExRbwZbnux5vzw0/N3hLFYMLot14e73gwxfxXd6WWUFb6DN2+/I9D8LFbf+7dWHZSFcgEjhjXaBteMKABPGt3aJr7s3VrRo/xsg3tYt4rLIB9mjK93N0oxfNoJcknJA20zvq6VafDUSD+nlh+RhHMxzV/qPpxzavHg9Hkx+ERZbHGZYZ3A0myz8nPuK70PhrAkbvnc3ZyGvrjbJ/49EpE2ykngbL2j4Q+L/p1oTkvWuPSdBod9U4dUdI9Sdkzr8nmnaPV+M4qoFDCxvWrtq+SDaqZGfoYhTwG3jRpH51QOJ56Wl87zT4UvBXCkDHE=
